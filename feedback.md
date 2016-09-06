@@ -37,6 +37,7 @@ In JavaScript: `print("No two sum solution")`
 
 #### Stuff I Learned
 
-In Java, to get the keyset of a Map, you call the `<Map>.keySet()` method. 
-
-To create a new array with some values, you can do `int[] arr = {1,2,3};`
+* In Java, to get the keyset of a Map, you call the `<Map>.keySet()` method
+* To create a new array with some values, you can do `int[] arr = {1,2,3};`
+* Don't forget your **return** statements!
+* You can directly check if a Map contains key with the `containsKey(Object key)` method
