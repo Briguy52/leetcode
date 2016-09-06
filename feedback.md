@@ -41,3 +41,4 @@ In JavaScript: `print("No two sum solution")`
 * To create a new array with some values, you can do `int[] arr = {1,2,3};`
 * Don't forget your **return** statements!
 * You can directly check if a Map contains key with the `containsKey(Object key)` method
+* Double check if you're supposed to return indices or values
