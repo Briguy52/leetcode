@@ -35,6 +35,8 @@ In JavaScript: `print("No two sum solution")`
 
 ### HashMap Solution One (Java)
 
+Now O(n) time complexity (2 O(n) passes through the loop) but O(n) space complexity (to house the hash map)
+
 #### Stuff I Learned
 
 * In Java, to get the keyset of a Map, you call the `<Map>.keySet()` method
