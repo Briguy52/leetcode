@@ -4,7 +4,7 @@
 
 > Monday, September 5th, 2016
 
-### Mistakes (in JavaScript)
+### Mistakes (in JavaScript) for Brute Force
 
 `for (int i=0; i<(len(nums)-1); i++)`
 
@@ -32,3 +32,11 @@ If you don't have anything to return (and you're supposed to) at least throw an 
 In Java: `throw new IllegalArgumentException("No two sum solution");`
 
 In JavaScript: `print("No two sum solution")`
+
+### HashMap Solution One (Java)
+
+#### Stuff I Learned
+
+In Java, to get the keyset of a Map, you call the `<Map>.keySet()` method. 
+
+To create a new array with some values, you can do `int[] arr = {1,2,3};`
