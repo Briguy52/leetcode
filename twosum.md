@@ -1,6 +1,4 @@
-# Feedback
-
-## Two Sum 
+# Two Sum 
 
 > Monday, September 5th, 2016
 
